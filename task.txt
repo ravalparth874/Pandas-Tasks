@@ -1,0 +1,71 @@
+🟢 Level 1 — Basic
+How many rows and columns are in the dataset?
+What are the names of all columns?
+How many students are there?
+Find the total number of null values in the entire dataset.
+Find the number of null values in each column.
+Which column contains the most null values?
+Find whether the dataset contains any duplicate rows.
+Find all unique values in the FavSub column.
+Find all unique values in the ComingMethod column.
+Find all unique cities in the dataset.
+🟡 Level 2 — Null Values & Cleaning
+Replace all missing FavSub values with "Unknown".
+Replace all missing City values with "Unknown".
+Replace the missing Ad value with the average Ad.
+Find which students have missing values.
+Remove all rows containing null values.
+Find the total number of null values after cleaning the dataset.
+Check whether there are any duplicate students based on their names.
+Replace a specific value in ComingMethod with another value.
+Remove duplicate rows from the dataset.
+Rename the Result column to Marks.
+🟠 Level 3 — Filtering
+Find all students who scored more than 70.
+Find all students who scored less than 50.
+Find all students whose Result is between 50 and 80.
+Find all students who come by Cycle.
+Find all students who come by Bus.
+Find all students from Surat.
+Find all students whose favourite subject is Maths.
+Find students who are from Surat and come by Cycle.
+Find students who have Result > 70 and favourite subject is Science.
+Find students whose Result < 50 or who come by Walk.
+🔵 Level 4 — Sorting & Statistics
+Find the highest Result.
+Find the lowest Result.
+Find the average Result.
+Find the average Pd.
+Find the average Ad.
+Find the student with the highest Result.
+Find the student with the lowest Result.
+Sort students from highest to lowest Result.
+Sort students from lowest to highest Result.
+Find the top 5 students based on Result.
+🟣 Level 5 — GroupBy
+Find how many students prefer each favourite subject.
+Find how many students use each ComingMethod.
+Find how many students belong to each city.
+Find the average Result for each favourite subject.
+Find the average Result for each city.
+Find the average Result for each ComingMethod.
+Find the highest Result in each favourite-subject group.
+Find the lowest Result in each city.
+Find which favourite subject has the highest average Result.
+Find which city has the highest average Result.
+🔥 Level 6 — Challenge
+Find the student with the highest Pd.
+Find the student with the highest Ad.
+Find the student with the lowest Pd.
+Find students whose Pd is greater than 100.
+Find students whose Ad is greater than 100.
+Find students where Pd > Ad.
+Find students where Ad > Pd.
+Find the average Result of students who come by Cycle.
+Find the average Result of students who come by Bus.
+Find the city with the highest number of students.
+Find the favourite subject with the most students.
+Find the coming method with the highest average Result.
+Find the top 3 students from Surat based on Result.
+Find the top student for each favourite subject.
+Find students who scored above the overall average Result.
