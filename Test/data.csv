@@ -1,0 +1,16 @@
+CustomerID,Name,City,Age,TotalSpend,OrdersCount,FavCategory,PreferredPayment,DiscountUsed
+101,Aarav Sharma,Surat,28,45000,12,Electronics,Credit Card,Yes
+102,Ananya Patel,Ahmedabad,34,12500,4,Clothing,UPI,No
+103,Rohan Mehta,Surat,22,8900,3,Books,UPI,Yes
+104,Priya Singh,Mumbai,45,67000,20,Electronics,Credit Card,No
+105,Dev Varma,Surat,29,,8,Home & Kitchen,Debit Card,Yes
+106,Isha Joshi,Ahmedabad,25,3100,1,Books,,No
+107,Karan Shah,Surat,31,24000,6,Electronics,UPI,Yes
+108,Sanya Kapadia,Mumbai,19,4200,2,Clothing,Debit Card,No
+109,Vikram Malhotra,Delhi,52,98000,25,Electronics,Credit Card,Yes
+110,Neha Gupta,Surat,28,15600,5,Home & Kitchen,UPI,
+111,Rahul Nair,Bengaluru,38,51000,14,Electronics,Credit Card,Yes
+112,Pooja Trivedi,Ahmedabad,29,7200,3,Books,UPI,No
+113,Aarav Sharma,Surat,28,45000,12,Electronics,Credit Card,Yes
+114,Manish Kumar,Delhi,41,,11,Home & Kitchen,Debit Card,No
+115,Riya Desai,Surat,24,18900,7,Clothing,UPI,Yes
